@@ -2,7 +2,7 @@
 
 **Frontend Developer (Fullstack-Oriented)**
 
-📧 m.ronikusuma@gmail.com | 📱 0852-3202-2020  | 🔗 LinkedIn: https://linkedin.com/in/m-roni-kusuma
+📧 [m.ronikusuma@gmail.com](m.ronikusuma@gmail.com) | 📱 [0852-3202-2020](http://wa.me/+6285232022020) | 🔗 [https://linkedin.com/in/m-roni-kusuma](http://linkedin.com/in/m-roni-kusuma)
 
 ---
 
@@ -82,5 +82,5 @@ Sarjana Teknik Informatika
 2021 – 2025
 
 **MSIB – Dicoding Indonesia**  
-Pelatihan React & Back-End Development  
+[Pelatihan React & Back-End Development](https://drive.google.com/drive/folders/193HNsB7uYLjHXaiRYOHYy9irkGnJCVN0?usp=sharing)  
 Februari 2024 – Juni 2024
