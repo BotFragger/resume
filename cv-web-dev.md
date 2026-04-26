@@ -2,8 +2,7 @@
 
 **Frontend Developer (Fullstack-Oriented)**
 
-📧 m.ronikusuma@gmail.com | 📱 0852-3202-2020  
-🔗 LinkedIn: https://linkedin.com/in/m-roni-kusuma
+📧 m.ronikusuma@gmail.com | 📱 0852-3202-2020  | 🔗 LinkedIn: https://linkedin.com/in/m-roni-kusuma
 
 ---
 
