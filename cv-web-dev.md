@@ -32,7 +32,7 @@ React Hook Form, Zod
 MySQL, PostgreSQL
 
 **Tools & Others:**  
-Git, Figma, Responsive Web Design, Mobile-First Design
+Git, Figma, Responsive Web Design, Mobile-First Design, Docker
 
 ---
 
