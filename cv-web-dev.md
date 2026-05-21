@@ -1,14 +1,14 @@
 # MOHAMMAD RONI KUSUMA
 
-**Frontend Developer (Fullstack-Oriented)**
+**Fullstack Developer**
 
-[m.ronikusuma@gmail.com](m.ronikusuma@gmail.com) | [0852-3202-2020](http://wa.me/+6285232022020) | [https://linkedin.com/in/m-roni-kusuma](http://linkedin.com/in/m-roni-kusuma) | Nganjuk, Jawa Timur 
+[m.ronikusuma@gmail.com](m.ronikusuma@gmail.com) | [0852-3202-2020](http://wa.me/+6285232022020) | [https://linkedin.com/in/m-roni-kusuma](http://linkedin.com/in/m-roni-kusuma) | Nganjuk, Jawa Timur
 
 ---
 
 ## PROFESSIONAL SUMMARY
 
-Frontend-focused Web Developer dengan pengalaman 1 tahun dalam membangun aplikasi web menggunakan **React.js, Next.js, dan TypeScript**. Berpengalaman dalam mengembangkan sistem internal seperti POS dan platform berbasis role, termasuk integrasi **RESTful API**, manajemen state, serta form handling yang scalable.
+Fullstack Developer dengan Frontend-focused berpengalaman 1 tahun dalam membangun aplikasi web menggunakan **React.js, Next.js, dan TypeScript**. Berpengalaman dalam mengembangkan sistem internal seperti POS dan platform berbasis role, termasuk integrasi **RESTful API**, manajemen state, serta form handling yang scalable.
 
 Memiliki ketertarikan kuat pada **backend development dan system design**, khususnya dalam perancangan API dan database relasional. Terbiasa membangun aplikasi yang **responsive, dan maintainable**, serta terus mengembangkan kemampuan untuk menjadi **Fullstack Developer yang memahami end-to-end system flow**.
 
@@ -20,7 +20,7 @@ Memiliki ketertarikan kuat pada **backend development dan system design**, khusu
 React.js, Next.js, TypeScript, TailwindCSS
 
 **State Management & Data Fetching:**  
-TanStack Query, Redux Toolkit, RTK Query
+TanStack Query, RTK Query
 
 **Backend & API:**  
 Node.js, Express.js, RESTful API Development, Authentication & Authorization
@@ -32,7 +32,7 @@ React Hook Form, Zod
 MySQL, PostgreSQL
 
 **Tools & Others:**  
-Git, Figma, Responsive Web Design, Mobile-First Design
+Git, Figma, Responsive Web Design, Mobile-First Design, docker
 
 ---
 
@@ -54,7 +54,7 @@ _Januari 2025 – Januari 2026_
 #### 2. Public Complaint Web Platform
 
 - Mengimplementasikan fitur login, post complaint, search dan filter complaint.
-- Mengelola state global menggunakan Redux Toolkit & RTK Query
+- Mengelola state global menggunakan RTK Query
 - Melakukan redesign UI dengan pendekatan **mobile-first** untuk meningkatkan usability di berbagai device
 
 #### 3. Regional Profile Website
