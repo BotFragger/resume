@@ -2,19 +2,17 @@
 
 **Fullstack Developer**
 
-[m.ronikusuma@gmail.com](m.ronikusuma@gmail.com) | [0852-3202-2020](http://wa.me/+6285232022020) | [https://linkedin.com/in/m-roni-kusuma](http://linkedin.com/in/m-roni-kusuma) | Nganjuk, Jawa Timur 
+[m.ronikusuma@gmail.com](m.ronikusuma@gmail.com) | [0852-3202-2020](http://wa.me/+6285232022020) | [https://linkedin.com/in/m-roni-kusuma](http://linkedin.com/in/m-roni-kusuma) | Nganjuk, Jawa Timur
 
 ---
 
-## PROFESSIONAL SUMMARY
+## RINGKASAN
 
-Frontend-focused Web Developer dengan pengalaman 1 tahun dalam membangun aplikasi web menggunakan **React.js, Next.js, dan TypeScript**. Berpengalaman dalam mengembangkan sistem internal seperti POS dan platform berbasis role, termasuk integrasi **RESTful API**, manajemen state, serta form handling yang scalable.
-
-Memiliki ketertarikan kuat pada **backend development dan system design**, khususnya dalam perancangan API dan database relasional. Terbiasa membangun aplikasi yang **responsive, dan maintainable**, serta terus mengembangkan kemampuan untuk menjadi **Fullstack Developer yang memahami end-to-end system flow**.
+Frontend-focused Fullstack Developer dengan pengalaman profesional membangun aplikasi web internal perusahaan dan platform publik menggunakan React, Next.js, dan TypeScript. Berpengalaman mengembangkan antarmuka yang responsif, mengintegrasikan REST API, mengelola state aplikasi, serta membangun arsitektur komponen yang reusable dan mudah dipelihara. Saat ini terus memperdalam backend engineering dan system design untuk berkembang menjadi software engineer yang memiliki pemahaman menyeluruh dari sisi frontend maupun backend.
 
 ---
 
-## TECHNICAL SKILLS
+## KETERAMPILAN TEKNIS
 
 **Core Frontend:**  
 React.js, Next.js, TypeScript, TailwindCSS
@@ -23,7 +21,7 @@ React.js, Next.js, TypeScript, TailwindCSS
 TanStack Query, Redux Toolkit, RTK Query
 
 **Backend & API:**  
-Node.js, Express.js, RESTful API Development, Authentication & Authorization
+Node.js, Express.js, RESTful API
 
 **Form & Validation:**  
 React Hook Form, Zod
@@ -32,50 +30,59 @@ React Hook Form, Zod
 MySQL, PostgreSQL
 
 **Tools & Others:**  
-Git, Figma, Responsive Web Design, Mobile-First Design, Docker
+Git, Figma, Docker
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## PENGALAMAN PROFESIONAL
 
 ### Web Developer
 
 **Tekko.ID – Denpasar**  
 _Januari 2025 – Januari 2026_
 
-#### 1. Web-Based POS System (Internal Project)
+#### Sistem Point of Sale (POS) Berbasis Web
 
-- Mengembangkan sistem POS berbasis web untuk operasional internal menggunakan Next.js
-- Membangun fitur manajemen stok dan pencatatan transaksi
-- Mengintegrasikan frontend dengan RESTful API untuk sinkronisasi data secara real-time
-- Mengimplementasikan validasi form menggunakan Zod dan React Hook Form
-- Mengelola data fetching dan caching menggunakan TanStack Query
-
-#### 2. Public Complaint Web Platform
-
-- Mengimplementasikan fitur login, post complaint, search dan filter complaint.
-- Mengelola state global menggunakan Redux Toolkit & RTK Query
-- Melakukan redesign UI dengan pendekatan **mobile-first** untuk meningkatkan usability di berbagai device
-
-#### 3. Regional Profile Website
-
-- Mengembangkan website profil daerah menggunakan Next.js
-- Mendesain struktur komponen reusable untuk meningkatkan maintainability
-- Mengoptimalkan tampilan agar fully responsive di berbagai ukuran layar
+- Mengembangkan antarmuka transaksi penjualan, stok barang, dan manajemen pelanggan menggunakan Next.js dan TypeScript.
+- Mendesain komponen UI yang reusable sehingga mengurangi duplikasi kode dan mempermudah pengembangan fitur berikutnya.
+- Mengintegrasikan REST API untuk sinkronisasi data stok, transaksi, dan pelanggan.
+- Mengimplementasikan pengelolaan server state menggunakan TanStack Query untuk meningkatkan efisiensi proses fetching dan caching data.
+- Membangun struktur form yang reusable menggunakan React Hook Form dan Zod sehingga validasi data menjadi konsisten di berbagai modul transaksi.
+- Berkolaborasi dengan backend developer dalam proses integrasi API serta penyelesaian permasalahan pada lingkungan production.
 
 ---
 
-## LEADERSHIP EXPERIENCE
+#### Platform Pengaduan Publik
 
-### Head of Division – Campus Organization
-
-- Memimpin tim beranggotakan 5 orang dalam menjalankan program kerja organisasi
-- Mengelola pembagian tugas dan koordinasi tim untuk memastikan target tercapai sesuai timeline
-- Meningkatkan efektivitas komunikasi dan kolaborasi antar anggota tim
+- Mengembangkan fitur autentikasi, pembuatan pengaduan, pencarian, penyaringan data, serta manajemen profil pengguna.
+- Mengelola global state dan komunikasi API menggunakan Redux Toolkit serta RTK Query.
+- Melakukan redesign antarmuka dengan pendekatan mobile-first untuk meningkatkan pengalaman pengguna pada berbagai ukuran perangkat.
+- Melakukan refactoring komponen agar lebih reusable, konsisten, dan mudah dipelihara.
 
 ---
 
-## EDUCATION
+#### Website Profil Regional
+
+- Mengembangkan website informasi publik menggunakan Next.js dan Tailwind CSS.
+- Membangun layout serta komponen UI yang reusable untuk mempermudah pengelolaan konten di masa mendatang.
+- Mengoptimalkan tampilan agar responsif pada desktop, tablet, maupun perangkat mobile.
+- Berkolaborasi dengan UI/UX Designer dalam mengimplementasikan desain Figma menjadi aplikasi yang siap digunakan.
+
+---
+
+## PENGALAMAN ORGANISASI
+
+### Kepala Divisi
+
+**Organisasi Mahasiswa**
+
+- Mengoordinasikan tim yang terdiri dari lima anggota melalui pembagian tugas dan pemantauan progres pekerjaan.
+- Menyelenggarakan koordinasi rutin untuk meningkatkan komunikasi serta efektivitas kerja tim.
+- Memastikan seluruh program kerja dapat diselesaikan sesuai target dan jadwal yang telah ditentukan.
+
+---
+
+## PENDIDIKAN
 
 **Universitas Dian Nuswantoro PSDKU Kota Kediri**  
 Sarjana Teknik Informatika  
@@ -84,3 +91,19 @@ Sarjana Teknik Informatika
 **MSIB – Dicoding Indonesia**  
 [Pelatihan React & Back-End Development](https://drive.google.com/drive/folders/193HNsB7uYLjHXaiRYOHYy9irkGnJCVN0?usp=sharing)  
 Februari 2024 – Juni 2024
+
+---
+
+## BAHASA
+
+- Bahasa Indonesia (Native)
+- Bahasa Inggris (Moderate)
+
+---
+
+## SEDANG DIPERDALAM
+
+- Backend Architecture
+- System Design
+- Docker & Containerization
+- Linux System Administration
